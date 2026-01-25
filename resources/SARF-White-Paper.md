@@ -18,7 +18,7 @@ This document is intended for anyone who might apply it. This is meant to be the
 
 *SARF stands for Symptom, Anxiety, Relationship, Functioning. The basic clinical hypothesis is that episodic (S)ymptoms in an individual are modulated by acute shifts in (A)nxiety, which are modulated by shifts in the (R)elationship system. Durable shifts in symptoms are associated with shifts in the level of chronic anxiety. Clinical change involves increasing (F)unctioning through all the usual means, which decreases the impact of R on A, and so also S. R subdivides into at least the short-term strategies of conflict, distance, reciprocity, projection, cutoff, and triangling, and the more sophisticated long-term innovative strategy "define self."*
 
-*Interactions between these variables are more complex than a simple pipeline. The goal here is to provide a simple, straightforward starting point for medical and mental health clinicians and people in the helping professions. A and R are to be ruled out as impacting S in a differential diagnosis. The model does not imply that all symptoms work this way, which would be bad scientific practice. F is the independent clinical variable, where higher functioning should lessen the impact of A and R on S. The goal is to "function up."*
+Interactions between these variables are more complex than a simple pipeline. The goal here is to provide a simple, straightforward starting point for medical and mental health clinicians and people in the helping professions. A and R are to be ruled out as impacting S in a differential diagnosis. The model does not imply that *all* symptoms work this way, which would be bad scientific practice. F is the independent clinical variable, where higher functioning should lessen the impact of A and R on S. The goal is to "function up."
 
 ## Origin
 
@@ -42,7 +42,7 @@ Value space: up, down, same
 
 ### A: Anxiety
 
-Anxiety is synonymous with autonomic threat response. Threat response is determined by perceived threat. While determined by perception, it is deeply biological and evolutionarily very, very old. This is why it impacts both behavioral/emotional symptoms and so many physiological symptoms.
+Anxiety is synonymous with autonomic threat response. Threat response is determined by *perceived* threat. While determined by perception, it is deeply biological and evolutionarily very, very old. This is why it impacts both behavioral/emotional symptoms and so many physiological symptoms.
 
 Value space: up, down, same
 

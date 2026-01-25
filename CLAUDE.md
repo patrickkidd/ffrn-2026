@@ -124,7 +124,7 @@ about categorization. Do not wait for user to drive knowledge capture.
 ### Finding Documentation
 
 **Before asking user about any topic:**
-1. Check the presentation's CLAUDE.md (1-WHY_FAMILY/CLAUDE.md, 1-WHY_FAMILY/CLAUDE.md)
+1. Check the presentation's DASHBOARD.md (e.g., `1-WHY_FAMILY/DASHBOARD.md`, `2-SARF_INTRO/DASHBOARD.md`)
 2. Search `**/doc/*.md` for keywords
 3. Only ask if genuinely missing
 
@@ -156,7 +156,7 @@ about categorization. Do not wait for user to drive knowledge capture.
 
 **Routing by Topic - Authoritative Docs:**
 
-Each knowledge domain has ONE authoritative doc. Find it and integrate knowledge there.
+Each presentation has ONE authoritative dashboard. Find it and integrate knowledge there. Creat it if it doesn't exist. The dashboard is for the development of the presentation, it should include the status of the dev process including todo, priorities, and included or bookmarked concepts.
 
 | Presentation | Authoritative Doc |
 |------------------|-------------------|
