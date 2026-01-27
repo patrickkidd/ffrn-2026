@@ -1,7 +1,7 @@
 ## Morning 1 - Orientation
 -	8:30-8:40 – Introduction by FFRN
--	8:40-9:00 – Introduction of Material *(Guillermo)*
--	9:00-10:00 – Why Family? The State of Behavioral Health *(Dr. Stinson)*
+-	8:40-9:45 – Introduction of Material *(Guillermo)*
+-	8:45-10:00 – Why Family? The State of Behavioral Health *(Dr. Stinson)*
     - Dr. Stinson facilitate questions / clarifications along the way
 
 *10:00-10:15 – Coffee Break*
