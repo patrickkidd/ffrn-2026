@@ -82,7 +82,12 @@ All presentation content was developed through iterative collaboration between D
 │   ├── ...                      # Iterations 3-8
 │   └── 9-Claude-Outline.md      # CURRENT VERSION
 │
-├── 2-SARF_INTRO/             # "Intro to SARF" presentation (TBD)
+├── 2-SARF_INTRO/                # "Intro to SARF" presentation
+│
+├── 3-CLINICAL_RESEARCH/         # "Clinical Research at the Cutting Edge"
+│   ├── 0-INITIAL_BRAINSTORM.md  # Brainstorm and concepts
+│   ├── 1-SLIDES-DRAFT.md        # Slide deck draft
+│   └── DASHBOARD.md             # Development status
 │
 └── articles/                    # Reference materials
     ├── Stinson-*.md             # Dr. Stinson's published work
