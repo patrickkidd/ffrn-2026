@@ -191,13 +191,14 @@ Maintain `btcopilot/decision_log.md` for major decisions.
 When modifying content, automatically keep existing markdown files in sync.
 Ask before creating new files, not before updating existing ones.
 
-**README.md Sync (MANDATORY):**
-The root `README.md` serves as the public index for this repository. Keep it in sync when:
-- Adding or renaming presentation outlines (update Quick Links, Repository Structure)
-- Adding or renaming articles in `articles/` (update Reference Materials tables)
-- Changing the event schedule (update Conference Schedule section)
-- Modifying presenter information or dissertation references
-- Any change that affects what materials exist or how they're organized
+**README.md Sync (MANDATORY — NO EXCEPTIONS):**
+The root `README.md` is the public-facing index shared with conference attendees. It MUST be updated with **every change to the repo**, not just structural changes. This includes:
+- Adding, renaming, or removing presentation outlines or dashboards
+- Adding or renaming articles in `articles/` or resources in `resources/`
+- Changing the event schedule
+- Modifying presenter information
+- Any change that affects what materials exist, how they're organized, or their current status
+- Changes to presentation status or progress that should be reflected in the dashboards table
 
 **All workflows must be documented** with:
 - Step-by-step instructions

@@ -317,7 +317,7 @@ alaskafamilysystems.com
 
 **Dr. Patrick Stinson**
 Alaska Family Systems
-patrickkidd@gmail.com
+patrick@alaskafamilysystems.com
 
 ---
 

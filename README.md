@@ -2,25 +2,24 @@
 
 **A Day with Dr. Patrick Stinson**
 *February 28, 2025 | Florida Family Research Network*
+**Status: Work in Progress**
 
-> This page is a companion to the conference. Click any link below to read the full outlines, articles, and case studies discussed during the day.
+> This page is a companion to the conference. Click any link below to read the full outlines, articles, and case studies discussed during the day. Presentations are actively being developed — check each dashboard for current status and to-dos.
 
 ---
 
 ## What This Conference Is About
 
-**The core question:** How do we know if what we're doing helps—or makes things worse?
-
-Behavioral health lacks the measurable foundations that other fields take for granted. Without measurement, practices spread based on what feels right, not what works. History shows where this leads: lobotomy, recovered memory therapy, and other catastrophes where caring professionals harmed the people they intended to help.
+Treatment has increased fourfold. Prevalence hasn't budged. The problem: we're studying the blade of grass, not the wind. This conference shifts the lens to the family and introduces the framework and technology to capture what we've been missing.
 
 This conference presents a path forward:
+
+
 
 1. **A minimal data model** (SARF: Symptom, Anxiety, Relationship, Functioning) that captures family emotional process
 2. **A research method** (Inter-Rater Reliability) to establish whether trained people can agree on what they're seeing
 3. **Technology** that scales human judgment without replacing it
 4. **Practical tools** you can use in your practice
-
-The family is the smallest system where patterns become visible. By shifting the unit of analysis from individual to family, we can begin to measure what has been unmeasurable.
 
 ---
 
@@ -57,58 +56,28 @@ The family is the smallest system where patterns become visible. By shifting the
 
 ---
 
-## Key Ideas
-
-### The Problem
-
-- Treatment for depression increased 4x from 1987-2007. Prevalence stayed the same or increased.
-- After first depressive episode, 50% relapse. After third, 90%.
-- Teen suicide deaths increased 62% from 2007-2021.
-- Cambridge-Somerville Youth Study: boys who received caring intervention had *worse* outcomes—more crime, more addiction, earlier death.
-
-**Without measurement, caring can hurt.**
-
-### The Proposal
-
-Shift the unit of analysis from individual to family. The family is the smallest system where emotional patterns are visible—one level up from the blade of grass.
-
-SARF provides a minimal vocabulary:
-- **S**ymptom — What's happening in the body or behavior
-- **A**nxiety — Perceived uncertainty + urgency
-- **R**elationship — Toward/away movements between people
-- **F**unctioning — Capacity to pursue goals
-
-### The Research Method
-
-**Inter-Rater Reliability (IRR):** Can trained people agree on what they're seeing?
-
-If experts can't agree on coding, the concepts aren't clear enough. If they can agree, we have ground truth—a foundation for training, certification, and research.
-
-### The Technology Vision
-
-**IRR + AI is the breakthrough.**
-
-AI needs one thing: examples that humans agreed on. IRR provides exactly that. Technology scales what humans validate; humans remain the authority. Every output is reviewable and correctable.
-
-**Two eras:**
-1. **Era 1 (now):** AI learns to replicate what humans agreed on
-2. **Era 2 (coming):** AI discovers patterns in the growing database that humans couldn't see
-
----
-
 ## Presentation Materials
 
-### Current Outlines
+Each presentation has a **dashboard** with current status and to-dos, and a working outline or slide deck.
 
-| Presentation | Current Version |
-|--------------|-----------------|
-| Why Family? | [9-Claude-Outline.md](1-WHY_FAMILY/9-Claude-Outline.md) |
-| Intro to SARF | [DASHBOARD.md](2-SARF_INTRO/DASHBOARD.md) |
-| Clinical Research | [3-SLIDES-IRR-AI-ERAS.md](3-CLINICAL_RESEARCH/3-SLIDES-IRR-AI-ERAS.md) |
+| Presentation | Dashboard | Current Outline |
+|--------------|-----------|-----------------|
+| Why Family? | [Dashboard](1-WHY_FAMILY/DASHBOARD.md) | [Outline](1-WHY_FAMILY/9-Claude-Outline.md) |
+| Introduction to SARF | [Dashboard](2-SARF_INTRO/DASHBOARD.md) | [Draft](2-SARF_INTRO/1-OUTLINE-DRAFT.md) |
+| Clinical Research | [Dashboard](3-CLINICAL_RESEARCH/DASHBOARD.md) | [Slide Deck](3-CLINICAL_RESEARCH/3-SLIDES-IRR-AI-ERAS.md) |
+| The Family Diagram App | — | *Not yet started* |
+| Visualizing Emotional Process *(Dr. Havstad)* | N/A | N/A |
+| Data, the Future, the Next Generation | — | *Not yet started* |
 
 ### Reference Articles
 
-**Dr. Stinson's work:**
+**SARF framework:**
+| Document | Description |
+|----------|-------------|
+| [SARF White Paper](resources/SARF-White-Paper.md) | Definition, variables, and R&D roadmap |
+| [Anxiety as a Core Concept](resources/Anxiety-as-a-Core-Concept-in-Human-and-Animal-Behavior.md) | Deep dive on the "A" variable — evolutionary basis and cross-species objectivity |
+
+**Dr. Stinson's Literary Research:**
 | Article | Topic |
 |---------|-------|
 | [Emotional Systems Research Methodology](articles/Stinson-Emotional-Systems-Research-Methodology.md) | Two-phase research methodology |
@@ -128,12 +97,6 @@ AI needs one thing: examples that humans agreed on. IRR provides exactly that. T
 | [Salem Witch Trials](articles/Salem-Witch-Trials.md) | 1692; spectral evidence; 25+ deaths; jurors later apologized |
 | [Satanic Panic & Daycare Abuse](articles/Satanic-Panic-Daycare-Abuse.md) | 12,000+ cases; McMartin trial ($15M, 0 convictions) |
 | [MPD/DID Epidemic](articles/MPD-DID-Epidemic.md) | 50,000 diagnoses vs. ~200 prior; epidemic disappeared when practices stopped |
-
-**SARF framework:**
-| Document | Description |
-|----------|-------------|
-| [SARF White Paper](resources/SARF-White-Paper.md) | Definition, variables, and R&D roadmap |
-| [Anxiety as a Core Concept](resources/Anxiety-as-a-Core-Concept-in-Human-and-Animal-Behavior.md) | Deep dive on the "A" variable — evolutionary basis and cross-species objectivity |
 
 ---
 
@@ -178,7 +141,7 @@ His 2020 dissertation on problems in psychological science provides the intellec
 Alaska Family Systems
 
 - Website: [alaskafamilysystems.com](https://alaskafamilysystems.com)
-- Email: patrickkidd@gmail.com
+- Email: patrick@alaskafamilysystems.com
 
 ---
 
