@@ -5,7 +5,7 @@
 
 ## Status
 
-**Current state:** Slide deck at `2-SLIDES-VERTICAL-ALIGNMENT.md`. 21 slides, low resolution, room for discussion.
+**Current state:** Slide deck at `3-SLIDES-IRR-AI-ERAS.md`. 23 slides, low resolution, room for discussion.
 
 ## Todo
 
@@ -39,10 +39,13 @@ Technology scales what humans validate. Ground truth is human truth.
 |---------|-------------------|
 | **Big data vs. small data** | Our problem requires intelligent inference, not spreadsheets |
 | **Ground truth** | What domain experts agreed on—humans set the standard |
+| **IRR + AI** | The killer combo—AI needs IRR, IRR provides ground truth |
+| **Two eras** | Era 1: AI learns from humans. Era 2: AI discovers new patterns |
 | **Synthetic data** | Generated discussions for training; accelerates learning |
 | **Mutual discovery** | Clinical interview isn't a survey; relationship affects data |
 | **IRR** | Can multiple trained people agree on coding? |
 | **Vertical alignment** | One data model serves coding, comparison, stats, and scaling |
+| **Real-time coding** | Stream of changes enables coding while interviewing |
 
 ## Discoveries to Highlight
 
@@ -63,7 +66,8 @@ Technology scales what humans validate. Ground truth is human truth.
 |------|--------|
 | `0-INITIAL_BRAINSTORM.md` | Brainstorm and concepts |
 | `1-SLIDES-DRAFT.md` | First draft - 19 slides |
-| `2-SLIDES-VERTICAL-ALIGNMENT.md` | **Current** - 21 slides, added vertical alignment + getting involved |
+| `2-SLIDES-VERTICAL-ALIGNMENT.md` | Added vertical alignment + getting involved |
+| `3-SLIDES-IRR-AI-ERAS.md` | **Current** - 23 slides, punched slide 2, IRR+AI combo, two eras |
 
 ## Key Lines
 

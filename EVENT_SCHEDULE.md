@@ -1,10 +1,10 @@
 ## Morning 1 - Orientation
 -	8:30-8:40 – Introduction by FFRN
--	8:40-9:45 – Introduction of Material *(Guillermo)*
+-	8:40-8:45 – Introduction of Material *(Guillermo)*
 -	8:45-10:00 – Why Family? The State of Behavioral Health *(Dr. Stinson)*
     - Dr. Stinson facilitate questions / clarifications along the way
 
-*10:00-10:15 – Coffee Break*
+*10:00-10:15 – Coffee Break, informal discussion with Dr. Stinson*
 
 ## Morning 2 - AI, R&D (Understanding the Problem)
 -	10:15-11:00 – Intro to SARF *(Dr. Stinson)*
