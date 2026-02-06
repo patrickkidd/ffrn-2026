@@ -2,9 +2,25 @@
 
 **A Day with Dr. Patrick Stinson**
 *February 28, 2025 | Florida Family Research Network*
-**Status: Work in Progress**
+**Status:** Work in Progress
 
-> This page is a companion to the conference. Click any link below to read the full outlines, articles, and case studies discussed during the day. Presentations are actively being developed — check each dashboard for current status and to-dos.
+---
+
+## For Conference Attendees
+
+This repository is a companion to the conference. All presentation outlines, articles, and case studies discussed during the day are available here. Click any link below to read the full materials.
+
+Presentations are actively being developed — check each dashboard for current status.
+
+---
+
+## What This Repository Contains
+
+This repository contains the development history of a one-day conference on capturing the data of emotional process.
+
+**For attendees:** The dashboards and outlines linked below are your companion documents for the conference. They contain full outlines, key lines, and discussion prompts.
+
+**For future reference:** All materials are plain-text markdown, version-controlled, and open source. Each presentation folder contains numbered snapshot files showing how content evolved through iterative refinement with AI assistance (Claude Code). This development process itself serves as precedent for future AI-driven content development in Bowen theory and beyond.
 
 ---
 
@@ -13,8 +29,6 @@
 Treatment has increased fourfold. Prevalence hasn't budged. The problem: we're studying the blade of grass, not the wind. This conference shifts the lens to the family and introduces the framework and technology to capture what we've been missing.
 
 This conference presents a path forward:
-
-
 
 1. **A minimal data model** (SARF: Symptom, Anxiety, Relationship, Functioning) that captures family emotional process
 2. **A research method** (Inter-Rater Reliability) to establish whether trained people can agree on what they're seeing
@@ -69,15 +83,19 @@ Each presentation has a **dashboard** with current status and to-dos, and a work
 | Visualizing Emotional Process *(Dr. Havstad)* | N/A | N/A |
 | Data, the Future, the Next Generation | — | *Not yet started* |
 
-### Reference Articles
+---
 
-**SARF framework:**
+## Reference Articles
+
+### SARF Framework
+
 | Document | Description |
 |----------|-------------|
 | [SARF White Paper](resources/SARF-White-Paper.md) | Definition, variables, and R&D roadmap |
 | [Anxiety as a Core Concept](resources/Anxiety-as-a-Core-Concept-in-Human-and-Animal-Behavior.md) | Deep dive on the "A" variable — evolutionary basis and cross-species objectivity |
 
-**Dr. Stinson's Literary Research:**
+### Dr. Stinson's Literary Research
+
 | Article | Topic |
 |---------|-------|
 | [Emotional Systems Research Methodology](articles/Stinson-Emotional-Systems-Research-Methodology.md) | Two-phase research methodology |
@@ -89,7 +107,8 @@ Each presentation has a **dashboard** with current status and to-dos, and a work
 | [Barriers to Science for Bowen Theory](articles/Stinson-Barriers-to-Science-for-Bowen-Theory.md) | Markers of pseudoscience; need for explicit predictive models |
 | [The AI Revolution and Family Assessment](articles/Stinson-AI-Revolution-and-Family-Assessment.md) | LLMs, BT Co-pilot, building blocks for automating evaluation |
 
-**Historical case studies:**
+### Historical Case Studies
+
 | Case | What Happened |
 |------|---------------|
 | [Cambridge-Somerville Youth Study](articles/Cambridge-Somerville-Youth-Study.md) | Caring intervention made outcomes worse |
@@ -137,6 +156,16 @@ This work needs people at every level.
 
 ---
 
+## Spin-Off Presentations
+
+Presentations derived from this conference material for other venues.
+
+| Venue | Date | Dashboard |
+|-------|------|-----------|
+| Bowen Center Post-Graduate Program | Feb 9, 2026 | [Hypothesis Testing in BT, SARF Clinical Model, R&D](spin-offs/PGP-2026/DASHBOARD.md) |
+
+---
+
 ## About Dr. Stinson
 
 **Dr. Patrick Stinson, Psy.D.** combines 25 years as a software architect with clinical training in family systems.
@@ -157,18 +186,6 @@ Alaska Family Systems
 
 - Website: [alaskafamilysystems.com](https://alaskafamilysystems.com)
 - Email: patrick@alaskafamilysystems.com
-
----
-
----
-
-## Spin-Off Presentations
-
-Presentations derived from this conference material for other venues.
-
-| Venue | Presentation | Dashboard |
-|-------|--------------|-----------|
-| Bowen Center PGP 2026 | The Modeling Phase: What's Been Missing from Bowen Theory | [Dashboard](spin-offs/PGP-2026/DASHBOARD.md) |
 
 ---
 
