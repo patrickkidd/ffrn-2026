@@ -1,2 +1,4 @@
 instance/
 .DS_Store
+.python-version
+uv.lock

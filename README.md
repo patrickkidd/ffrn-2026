@@ -86,6 +86,8 @@ Each presentation has a **dashboard** with current status and to-dos, and a work
 | [The Importance of the Timeline](articles/Stinson-The-Importance-of-the-Timeline-in-Family-Diagram.md) | Timeline construction methodology |
 | [Induction and Family Diagram](articles/Stinson-Induction-and-Family-Diagram.md) | Induction vs. deduction in Bowen theory |
 | [Daily Logging with Toward and Away](articles/Stinson-Daily-Logging-in-Family-Diagram-With-Toward-and-Away.md) | Toward/away as atomic operations; daily logging |
+| [Barriers to Science for Bowen Theory](articles/Stinson-Barriers-to-Science-for-Bowen-Theory.md) | Markers of pseudoscience; need for explicit predictive models |
+| [The AI Revolution and Family Assessment](articles/Stinson-AI-Revolution-and-Family-Assessment.md) | LLMs, BT Co-pilot, building blocks for automating evaluation |
 
 **Historical case studies:**
 | Case | What Happened |
@@ -97,6 +99,19 @@ Each presentation has a **dashboard** with current status and to-dos, and a work
 | [Salem Witch Trials](articles/Salem-Witch-Trials.md) | 1692; spectral evidence; 25+ deaths; jurors later apologized |
 | [Satanic Panic & Daycare Abuse](articles/Satanic-Panic-Daycare-Abuse.md) | 12,000+ cases; McMartin trial ($15M, 0 convictions) |
 | [MPD/DID Epidemic](articles/MPD-DID-Epidemic.md) | 50,000 diagnoses vs. ~200 prior; epidemic disappeared when practices stopped |
+
+### Novel Contributions to the Field
+
+Original research and infrastructure from the [BT Copilot R&D project](https://github.com/patrickkidd/btcopilot):
+
+| Contribution | Description |
+|--------------|-------------|
+| [SARF Literature Review](https://github.com/patrickkidd/btcopilot/tree/master/doc/sarf-definitions) | First exhaustive, 100% traceable literature review for Bowen Theory technical terms |
+| [SARF Data Model White Paper](https://docs.google.com/document/d/1k6ZvYEG1644L4SKqXzXoOvBnepmus2-8WwUfMh4R_4Y/edit?usp=sharing) | Novel clinical data model operationalizing Bowen theory constructs |
+| [Implicit Behavioral Model Synthesis](https://github.com/patrickkidd/btcopilot/blob/master/doc/plans/brainstorm-assessment/12_IMPLICIT_BEHAVIORAL_MODEL_SYNTHESIS.md) | Cross-validated theoretical framework synthesizing neuroscience, philosophy of mind, and clinical observation |
+| [Family Diagram Visual Specification](https://github.com/patrickkidd/btcopilot/blob/master/doc/FAMILY_DIAGRAM_VISUAL_SPEC.md) | Platform-independent specification for rendering Bowen family diagrams |
+| [Conversational Flow Evaluation](https://github.com/patrickkidd/btcopilot#phase-7-conversational-flow-evaluation-) | Objective metrics for measuring clinical interview quality |
+| [Inter-Rater Reliability Study](https://github.com/patrickkidd/btcopilot#phase-11-inter-rater-reliability-study) | First formal IRR study for family systems constructs at scale |
 
 ---
 
@@ -142,6 +157,18 @@ Alaska Family Systems
 
 - Website: [alaskafamilysystems.com](https://alaskafamilysystems.com)
 - Email: patrick@alaskafamilysystems.com
+
+---
+
+---
+
+## Spin-Off Presentations
+
+Presentations derived from this conference material for other venues.
+
+| Venue | Presentation | Dashboard |
+|-------|--------------|-----------|
+| Bowen Center PGP 2026 | The Modeling Phase: What's Been Missing from Bowen Theory | [Dashboard](spin-offs/PGP-2026/DASHBOARD.md) |
 
 ---
 

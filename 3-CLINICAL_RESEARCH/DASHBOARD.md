@@ -49,7 +49,7 @@ Technology scales what humans validate. Ground truth is human truth.
 
 ## Discoveries to Highlight
 
-1. **Mutual discovery requirement** — Can't just survey for this data like a knee problem. Therapist must explore *with* the client.
+1. **Mutual discovery requirement** — Can't just survey for this data like a knee problem. Therapist must explore *with* the client or you don't get all the data.
 
 2. **Synthetic data trains faster** — Working group learned SARF coding faster on synthetic data than real cases. Real recordings are the goal; synthetic accelerates getting there.
 

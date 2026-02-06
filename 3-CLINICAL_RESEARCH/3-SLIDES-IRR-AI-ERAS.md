@@ -167,7 +167,7 @@ To train humans and test software, we needed data.
 
 **You can't survey for this data like a knee problem.**
 
-The therapist must be in a process of *mutual discovery* with the client.
+The therapist must be in a process of *mutual discovery* with the client, or you woncan't get the data you need.
 - Not extracting answers
 - Exploring together
 - The relationship affects what emerges
@@ -235,6 +235,10 @@ Two 45-minute interviews. Person sees for the first time:
 - Data across practitioners
 - Statistical patterns emerge
 
+**Tooling**
+- Vertically integrated pro / personal app ecosystem
+- Novel clinical model
+
 ---
 
 ### Slide 17: More Concrete Than...
@@ -245,6 +249,8 @@ This is more concrete than anything this professional network has produced in de
 - A method to test agreement (IRR)
 - Infrastructure to establish ground truth
 - A path to scale
+
+*Note: Much depended on computer science / software engineering;p combination of theory + tech*
 
 ---
 
