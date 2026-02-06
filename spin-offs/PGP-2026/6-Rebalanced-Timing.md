@@ -307,10 +307,10 @@ Show:
 
 AI-assisted intake that generates timeline and diagram through conversation. The user talks with an AI interviewer; the app extracts SARF variables and builds the case automatically.
 
-<p float="left">
-  <img src="assets/personal-app-chat.png" width="30%" alt="Personal App - Chat Interface" />
-  <img src="assets/personal-app-cluster-focused.png" width="30%" alt="Personal App - Focused Cluster with SARF Graph" />
-  <img src="assets/personal-app-clusters.png" width="30%" alt="Personal App - Timeline Clusters" />
+<p>
+  <img src="assets/personal-app-chat.png" width="400" alt="Personal App - Chat Interface" />
+  <img src="assets/personal-app-cluster-focused.png" width="400" alt="Personal App - Focused Cluster with SARF Graph" />
+  <img src="assets/personal-app-clusters.png" width="400" alt="Personal App - Timeline Clusters" />
 </p>
 
 *Left: Conversational AI intake. Center: Focused cluster with SARF variable graph. Right: Auto-detected timeline clusters (3-5 notable periods).*
