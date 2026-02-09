@@ -8,24 +8,25 @@
 
 ## Table of Contents
 
-| Part | Topic | Time | Subsections |
-|------|-------|------|-------------|
-| **1** | [The Problem](#part-1-the-problem-25-min) | 25 min | Behavioral health, historical catastrophes, fatal flaw, data requirements |
-| **2** | [SARF — The Minimal Data Model](#part-2-sarf--the-minimal-data-model-35-min) | 35 min | What's needed, pipeline, vignette, atomic operation, vertical alignment, early findings, what you get for free |
-| **—** | [Mid-Presentation Discussion](#mid-presentation-discussion-20-min) | 20 min | |
-| **3** | [What We're Building](#part-3-what-were-building-30-min) | 30 min | Tool ecosystem, Pro demo, Personal screenshots, IRR working group, btcopilot R&D, IRR+AI pipeline |
-| **4** | [Implications](#part-4-implications-15-min) | 15 min | Certification, training, aggregate research |
-| **5** | [The Challenge](#part-5-the-challenge-15-min) | 15 min | 3-minute challenge, why it matters, app seminar |
-| **6** | [Closing Discussion](#part-6-closing-discussion-25-min) | 25 min | |
-| | **Total** | **2h 45min** | |
-| — | [Reference Articles](#reference-articles) | | SARF framework, Stinson articles, historical case studies, novel contributions |
-| — | [Get Involved](#get-involved) | | For clinicians, for researchers |
+| Part | Topic | Time | Elapsed | Subsections |
+|------|-------|------|---------|-------------|
+| **1** | [The Problem](#part-1-the-problem-25-min) | 25 min | 0:25 | Behavioral health, historical catastrophes, fatal flaw, data requirements |
+| **2** | [SARF — The Minimal Data Model](#part-2-sarf--the-minimal-data-model-35-min) | 35 min | 1:00 | What's needed, pipeline, vignette, atomic operation, vertical alignment, what you get for free, early findings |
+| **—** | [Mid-Presentation Discussion](#mid-presentation-discussion-20-min) | 20 min | 1:20 | |
+| **3** | [What We're Building](#part-3-what-were-building-30-min) | 30 min | 1:50 | Tool ecosystem, Pro demo, Personal screenshots, Training App, IRR working group, IRR+AI pipeline |
+| **4** | [Implications](#part-4-implications-15-min) | 15 min | 2:05 | Certification, training, aggregate research |
+| **5** | [The Challenge](#part-5-the-challenge-15-min) | 15 min | 2:20 | 3-minute challenge, why it matters, app seminar |
+| **6** | [Closing Discussion](#part-6-closing-discussion-25-min) | 25 min | 2:45 | |
+| — | [Reference Articles](#reference-articles) | | | SARF framework, Stinson articles, historical case studies, novel contributions |
+| — | [Get Involved](#get-involved) | | | For clinicians, for researchers |
 
 ---
 
 ## PART 1: THE PROBLEM (~25 min)
 
-**Purpose:** Make the case that everyone—especially those of us in helping professions—must think as scientifically as we can. The stakes are too high not to.
+**Purpose:**
+- Make the case that everyone—especially those of us in helping professions—must think as scientifically as we can. The stakes are too high not to.
+- Draw the line between professional STEM research and "research" on your own family.
 
 ### 1.1 The State of Behavioral Health
 
@@ -56,7 +57,7 @@
 **Implicit model in the Field:**
 - Field assumes the problem is inside the individual
 - This determines treatment, research design, funding—everything
-- 8Proposition: We're studying the blade of grass and ignoring the wind*
+- *Proposition: We're studying the blade of grass and ignoring the wind*
 
 ### 1.2 Historical Catastrophes
 
@@ -101,9 +102,8 @@ Caring professionals—people like us—who caused massive harm because they wer
 
 **Bowen Theory has the same structural problem.**
 
-No evidence of a single explicit predictive model.
+No evidence of a single explicit predictive model:
 
-**Terms:**
 - **Explicit** = outside the brain; material form anyone can inspect
 - **Predictive** = forecasts what will happen, not just explains past
 - **Model** = simulation that produces testable predictions
@@ -121,6 +121,21 @@ No evidence of a single explicit predictive model.
 | No boundary conditions | Triangles everywhere—what do they NOT predict? |
 | Reference to seminal thinker | Cite Bowen, not testable models |
 
+**Additional proposed markers (Stinson):**
+
+| Marker | How It Shows Up |
+|--------|-----------------|
+| No new explicit predictive models | No technical talent pursuing BT model development; no variations or improvements on core predictions |
+| Attention shifting to application | Focus on coaching/therapy technique, not advancing the formal state of the art |
+| Theory before model | 8 concepts already formulated; now trying to find models to fit them (inverts inductive process) |
+| No replicability | Can't specify how another researcher would collect data to replicate a finding |
+| Meditation-like practice to learn | Takes 3+ years of training to understand the concepts; not easily demonstrable or communicable |
+| Reference to seminal thinker vs. models | Cite Bowen's writings and biography, not formally testable predictions |
+| Circular definitions | "Differentiation" ↔ "solid self" ↔ "basic self" |
+| Conflating construct with value | Differentiation treated as always good; higher = better (violates Hume's is-ought) |
+
+*(Reference material for audience review — too abstract for presentation time)*
+
 **These markers don't mean observations are wrong. They mean we haven't proven they're right.**
 
 If we can't test it—how do we know we're not the next Cambridge-Somerville?
@@ -135,7 +150,7 @@ If we can't test it—how do we know we're not the next Cambridge-Somerville?
 
 All rigorous research requires **data**.
 
-Not impressions. Not narratives. Not "I've seen this pattern." **Data.**
+Not impressions. Not narratives. Not "I've seen this pattern." **Data that a critic can agree with.**
 
 Requirements:
 - **Systematically collected** — same method every time
@@ -148,13 +163,13 @@ Without this: stories, not research.
 
 **The question for Bowen Theory:** What would we even collect? What's the data model?
 
-*NOTE: DoS is applying scientific **principles** to your own family history & emotional functioning, which is **not the same as formal scientific research.**
+NOTE: DoS is applying scientific **principles** to your own family history & emotional functioning, which is **not the same as formal scientific research.**
 
 ---
 
 ## PART 2: SARF — THE MINIMAL DATA MODEL (~35 min)
 
-**Purpose:** SARF is the answer. A minimal, systematic way to collect data on emotional process.
+**Purpose:** SARF is an answer. A minimal, systematic way to collect data on emotional process.
 
 ### 2.1 What's Needed
 
@@ -164,18 +179,57 @@ A data model answers:
 - What exactly do you record to capture what theory describes?
 - What applies across every case—not just this family, but any family?
 - How do you track triangles in a way that's not just mental, but recorded?
+- And more
 
 ### 2.2 The SARF Pipeline
 
-**R → A → S**
+**What SARF Is:**
+- *The clinical hypothesis in Bowen theory*
+- Qualitative, timeseries data model for clinical evaluation and research
+- Simplifies relationship complexity into a minimum testable method
+- Not comprehensive out of the gate—intended to grow in precision as evidence permits
+- Parallel to NIH's RDoC: minimal framework to organize testable hypotheses, focused on validity
+
+**The Pipeline: R → A → S**
 
 - **(R)elationship** shifts modulate **(A)nxiety**
 - **(A)nxiety** modulates **(S)ymptoms**
-- **(F)unctioning** is the independent clinical variable
+- **(F)unctioning** is the independent clinical variable—where clinical work happens
 
-**Value space for R:** conflict, distance, reciprocal functioning, child-focus, cutoff, inside (triangle), outside (triangle), define-self
+**(S) Symptom**
+- What brings people in to see clinicians
+- Encompasses: mental, behavioral, emotional, psychiatric diagnoses
+- Also includes medical symptoms—especially chronic, complex, hard-to-predict: auto-immune, allergies, cancers
+- Value space: up, down, same
 
-**Value space for S, A, F:** up, down, same
+**(A) Anxiety**
+- Synonymous with autonomic threat response
+- Determined by *perceived* threat (not objective threat)
+- Deeply biological, evolutionarily very old
+- This is why it impacts both behavioral/emotional symptoms AND physiological symptoms
+- Value space: up, down, same
+
+**(R) Relationship**
+- Automatic moves a person makes in relation to one or more others
+- "Automatic" = driven by emotion, without choice, short-term motivation vs. long-term thoughtfulness
+- Value space: conflict, distance, reciprocal functioning, child-focus, cutoff, inside (triangle), outside (triangle), define-self
+
+**(F) Functioning**
+- How much others influence the person's thinking and feeling.
+- How well balanced emotion and thinking is toward the person's goals
+- Goals defined when they are at their calmest
+- When low: ruled by emotion, unable to use intellect to plan, problem solve, see forest for trees
+- Clinical change = "function up" → decreases impact of R on A, and so also S
+- Value space: up, down, same
+
+**Clinical Application:**
+- Collect timeline of shifts in each variable during assessment interview
+- Evaluate for correlations between R, A, and S over time
+- Use the [SARF Exhaustive Lit Review](https://github.com/patrickkidd/btcopilot/tree/master/doc/sarf-definitions) for operational definitions
+- SARF is used like differential diagnosis: rule out A and R as impacting S before assuming symptom is purely individual
+- The hypothesis is re-tested in each clinical case (evidence-based practice)
+
+**Key Point:** SARF does not claim *all* symptoms work this way—that would be bad science. It provides a testable framework to *check*.
 
 ### 2.3 A Clinical Vignette: Coding in SARF
 
@@ -193,12 +247,12 @@ Two sessions later, the symptom was gone. The mother forgot it had ever existed.
 
 **The SARF coding:**
 
-| Variable | What I Found |
-|----------|--------------|
-| **S** | Nail-biting in daughter |
-| **R** | Boyfriend fled → Mother's relationship system destabilized |
-| **A** | Mother's anxiety spiked |
-| **S** | Daughter's nail-biting started at the same time |
+| Variable | Value | What I Found |
+|----------|-------|--------------|
+| **S** | up | Nail-biting in daughter |
+| **R** | distance | Boyfriend fled → Mother's relationship system destabilized |
+| **A** | up | Mother's anxiety spiked |
+| **S** | up | Daughter's nail-biting started at the same time |
 
 The symptom wasn't "in" the daughter. It was a downstream effect of the mother's relationship shift.
 
@@ -208,14 +262,16 @@ This is what we're learning to code. This is the data.
 
 ### 2.4 The Atomic Operation
 
-The smallest indivisible action: A **toward** or **away** move.
+The smallest indivisible action in emotional process: A **SARF shift**.
 
+- Chronological / date based
 - One mover, one or more recipients
-- Toward = increased contact
-- Away = decreased contact
-- Track arousal (operational definition of anxiety)
+- One or more SARF shifts
+- R always has 1-N recipients
+  - Triangles are unique - has a third point
+- Can even be 1ms apart, just track. them
 
-**What is a triangle?** One move that is simultaneously toward one and away from another.
+"Emotional process" emerges from the chain of atomic operations
 
 ### 2.5 Vertical Alignment
 
@@ -228,37 +284,69 @@ The smallest indivisible action: A **toward** or **away** move.
 | Defined fields | Stats without transformation |
 | Same format | Replicable studies |
 
-**Delta-based data model:** The "stream of changes" is key. SARF captures *deltas*—changes over time—not static snapshots. Each entry is a shift: anxiety went up, relationship moved toward conflict, symptom appeared. This delta-based approach matches how emotional process actually unfolds.
+**Delta-based data model:**
+- "Stream of changes" is key
+- SARF captures *deltas*—changes over time—not static snapshots
+- Each entry is a shift: anxiety went up, relationship moved toward conflict, symptom appeared
+- Delta-based approach matches how emotional process actually unfolds
 
 Design the data model right, and everything else falls into place.
 
-### 2.6 Early Findings from the R&D
+### 2.6 What You Get for Free
 
-Even at this early stage, systematic data collection has revealed things we couldn't see before:
+**Core point:** Focus on clean, correct, data-driven scientific practice → you get something you can actually call "Bowen theory"
 
-**Mutual discovery:** You can't survey for this data like a knee problem. The therapist must be in a process of *mutual discovery* with the client—exploring together, not extracting answers. The relationship affects what emerges. If you just interrogate, you don't get the data you need.
+**The problem:**
+- Bowen is in every family therapy textbook
+- Almost always misrepresented
+- Textbooks don't understand Bowen was focused on natural science and predictive theory—not therapy
+- Most of field still doesn't know the difference between theory and therapy
+- They think therapy *is* theory
 
-**Synthetic data trains faster:** The working group learned SARF coding faster on synthetic (AI-generated) clinical discussions than on real case recordings. Cleaner examples, known ground truth, faster iteration. Real recordings remain the goal—synthetic data accelerates getting there.
+**The current barrier:**
+- Takes practically unlimited reading and 3-year training program to understand how BT is actually different
+- You have to absorb so much to see the distinction
 
-**The responsibility pattern:** Two 45-minute interviews with one person. They see for the first time—laid out on a timeline—a pattern of constantly picking up responsibility. Saying yes to everything, no filter. Anxiety going up and up. **No downs.** Just seeing the data organized was the breakthrough. No sophisticated analysis required.
+**Hypothesis: SARF solves this:**
+- At conceptual level, it's **obviously** different:
+  - Different from individual therapy (unit of analysis = relationship system, not individual)
+  - Different from any other psychological data model (tracking R → A → S across timeline of family functioning)
+- Don't need 3 years of training to see this is something else
+- Data model makes the distinctiveness self-evident
 
-**Timeline data clusters:** When you capture timeseries data in a standard Bowen-theory-driven clinical interview, the data naturally clusters into **3-5 notable periods**. Why? The client's own internal/emotional "sampling bias" determines which periods they report—they tell you about the times that are emotionally salient to *them*. These clusters ARE the "emotional process" described in Bowen theory. They typically follow a nodal/triggering event and reveal acute/episodic fluctuations in SARF variables over the baseline. The baseline is the state in the relatively quiet periods between clusters. **The clustering itself is the signal—you don't have to know what to look for.**
+**Focus on the science, and you SHOULD end up with Bowen theory—recognizably, demonstrably.**
 
-### 2.7 What You Get for Free
+### 2.7 Early Findings from the R&D
 
-Here's the thing: **if you just focus on clean, correct, data-driven scientific practice, you get something you can actually call "Bowen theory."**
+Systematic data collection has revealed things we couldn't see before:
 
-Bowen is in every family therapy textbook. But it's almost always misrepresented. The textbooks don't understand that Bowen was focused on natural science and predictive theory—not therapy. Most of the field still doesn't know the difference between theory and therapy. They think therapy *is* theory.
+**Mutual discovery:**
+- Can't survey for this data like a knee problem
+- Therapist must be in *mutual discovery* with client—exploring together, not extracting answers
+- The relationship affects what emerges
+- If you just interrogate, you don't get the data you need
 
-And right now, it takes practically unlimited reading and a three-year training program to understand how Bowen theory is actually different from everything else. You have to absorb so much to see the distinction.
+**Synthetic data trains faster:**
+- Working group learned SARF coding faster on synthetic (AI-generated) clinical discussions than real recordings
+- Cleaner examples, known ground truth, faster iteration
+- Real recordings remain the goal—synthetic data accelerates getting there
 
-But look at SARF. At the conceptual level, it's **obviously** different:
-- Different from individual therapy (the unit of analysis is the relationship system, not the individual)
-- Different from any other psychological data model (tracking R → A → S across a timeline of family functioning)
+**The responsibility pattern:**
+- Two 45-minute interviews with one person
+- They see for the first time—laid out on timeline—a pattern of constantly picking up responsibility
+- Saying yes to everything, no filter
+- Anxiety going up and up. **No downs.**
+- Just seeing data organized was the breakthrough—no sophisticated analysis required
 
-You don't need three years of training to see that this is something else. The data model makes the distinctiveness self-evident.
-
-**Focus on the science, and you end up with Bowen theory—recognizably, demonstrably.**
+**Clusters:**
+- Timeline data naturally clusters into **3-5 notable periods**
+- Why? Client's internal/emotional "sampling bias" determines which periods they report
+- They tell you about times emotionally salient to *them*
+- These clusters ARE the "emotional process" described in Bowen theory
+- Typically follow a nodal/triggering event
+- Reveal acute/episodic fluctuations in SARF variables over baseline
+- Baseline = state in relatively quiet periods between clusters
+- **The clustering itself is the signal—you don't have to know what to look for**
 
 ---
 
@@ -278,9 +366,9 @@ You don't need three years of training to see that this is something else. The d
 
 ---
 
-## PART 3: WHAT WE'RE BUILDING (~30 min)
+## PART 3: Tech Ecosystem (~30 min)
 
-**Purpose:** Show the tools and demonstrate the level of rigor.
+**Purpose:** Show the tools and demonstrate rigor.
 
 ### 3.1 The Tool Ecosystem
 
@@ -288,20 +376,19 @@ You don't need three years of training to see that this is something else. The d
 |------|--------|----------|
 | **Family Diagram Pro** | Released | Timeline + diagram for clinicians |
 | **Family Diagram Personal** | In development | AI intake, generates timeline/diagram via conversation |
-| **IRR System** | In use | Research infrastructure, blind coding workflow |
+| **Training App** | In use | Research infrastructure, blind coding workflow |
 
-### 3.2 APP DEMO — Family Diagram Pro
-
-**[LIVE DEMO]**
+### 3.2 "The App" — Family Diagram Pro
 
 Show:
-- Timeline construction
-- Functional facts
-- Emotional process symbols with timestamps and notes
+- Add form
+- "Facts alone" (dated functional facts)
 - Dynamic visualization
-- How it simplifies presenting a case
+- SARF shifts on diagram
+- Forces you to understand the data
 
 **Key point:** This is the technology that makes it possible to present a clean argument in under 3 minutes. The data entry is designed so that cleaning it up and presenting it to a good-faith critic becomes feasible.
+
 
 ### 3.3 Family Diagram Personal (In Development)
 
@@ -315,9 +402,31 @@ AI-assisted intake that generates timeline and diagram through conversation. The
 
 *Left: Conversational AI intake. Center: Focused cluster with SARF variable graph. Right: Auto-detected timeline clusters (3-5 notable periods).*
 
-### 3.4 The IRR Working Group: What Humans Are Doing
+### 3.4 The Training App
 
-This is where the ground truth gets established. People trained in Bowen theory are doing the work that makes everything else possible.
+This is an open-source R&D project taking AI-assisted Bowen theory application to a professional level.
+
+**The core idea:**
+- LLMs can read and understand the Bowen literature (which is remarkably internally consistent)
+- Chain multiple AI calls together as "building blocks"—each analyzing a different piece of the problem
+- Combine the results into a coherent evaluation
+
+**Building blocks example:**
+- One call: Where are the key triangles?
+- Another: What's the baseline anxiety vs. fluctuations?
+- Another: What's the hypothetical baseline configuration?
+- Final call: Synthesize into an overall formulation
+
+Show:
+- Mobile app interface with timeline data
+- The clustering visualization (3-5 notable periods visible)
+- Example of AI-generated case formulation
+
+*Let the screenshots speak for themselves.*
+
+### 3.5 The IRR Working Group: What Humans Are Doing
+
+This is where the "*ground truth*" gets established. People trained in Bowen theory are doing the work that makes everything else possible.
 
 **What IRR means:** Inter-Rater Reliability. Can two trained coders, working independently, code the same case the same way?
 
@@ -339,30 +448,6 @@ This is where the ground truth gets established. People trained in Bowen theory 
 **Why this matters:** Without human agreement, there's no ground truth. Without ground truth, AI has nothing to learn from. The IRR working group IS the foundation—everything else depends on what they produce.
 
 **Current status:** Working group active. Synthetic data has accelerated training. Real case recordings in exploration.
-
-### 3.5 The R&D Project: btcopilot (Brief Overview)
-
-This is an open-source R&D project taking AI-assisted Bowen theory application to a professional level.
-
-**The core idea:**
-- LLMs can read and understand the Bowen literature (which is remarkably internally consistent)
-- Chain multiple AI calls together as "building blocks"—each analyzing a different piece of the problem
-- Combine the results into a coherent evaluation
-
-**Building blocks example:**
-- One call: Where are the key triangles?
-- Another: What's the baseline anxiety vs. fluctuations?
-- Another: What's the hypothetical baseline configuration?
-- Final call: Synthesize into an overall formulation
-
-**[SCREENSHOTS]**
-
-Show:
-- Mobile app interface with timeline data
-- The clustering visualization (3-5 notable periods visible)
-- Example of AI-generated case formulation
-
-*Let the screenshots speak for themselves.*
 
 ### 3.6 The IRR + AI Pipeline
 
@@ -400,7 +485,7 @@ Show:
 - Data across practitioners
 - Statistical patterns emerge
 
-### 4.2 Honest Assessment
+### 4.2 Status
 
 **Where we are:**
 - IRR working group active
@@ -417,7 +502,7 @@ This is what real R&D looks like. Early stage. Showing the process.
 
 ### 5.1 The 3-Minute Challenge
 
-I challenge anyone who believes Bowen Theory to be factual—even if not verified—to:
+You know you understand a family case when you can:
 
 1. **Make a case presentation under 3 minutes** (ideally 2 minutes)
 2. **Include only the minimum necessary data** for a clean argument
@@ -425,7 +510,7 @@ I challenge anyone who believes Bowen Theory to be factual—even if not verifie
 4. **Use a generalized formula, not ad hoc** (applies word-for-word to another family)
 5. **Repeat with 3 more cases** (prove it replicates)
 
-If that can be done, I would love to see it.
+Make your case generic and send me a vidio.
 
 ### 5.2 Why This Matters
 
@@ -437,7 +522,7 @@ If we can't make a clean 3-minute case to someone outside the network, we haven'
 
 ### 5.3 The App Seminar
 
-**The Family Diagram App Seminar** is where this work happens.
+**The Family Diagram App Seminar** is for working professionals who want to up their game.
 
 What it is:
 - Monthly Zoom sessions
@@ -448,11 +533,9 @@ What it is:
 **Who it's for:**
 - Clinicians who want to apply rigorous thinking to their cases
 - People who want to contribute to the formal research effort
-- PGP trainees are often the most interested and appropriate for this narrow scope
+- PGP gives you the conceptual model, app seminar is one place to operationalize it.
 
-The PGP gives you the conceptual model. The app seminar is where you operationalize it.
-
-**alaskafamilysystems.com/family-diagram**
+**alaskafamilysystems.com**
 
 ---
 
@@ -483,7 +566,7 @@ The PGP gives you the conceptual model. The app seminar is where you operational
 | 1. The Problem | 25 min | 0:25 |
 | 2. SARF | 35 min | 1:00 |
 | Mid-Discussion | 20 min | 1:20 |
-| 3. What We're Building (w/ demos) | 30 min | 1:50 |
+| 3. The Tech Ecosystem | 30 min | 1:50 |
 | 4. Implications | 15 min | 2:05 |
 | 5. The Challenge + App Seminar | 15 min | 2:20 |
 | 6. Closing Discussion | 25 min | 2:45 |
