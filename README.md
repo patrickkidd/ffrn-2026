@@ -79,7 +79,7 @@ Each presentation has a **dashboard** with current status and to-dos, and a work
 | Why Family? | [Dashboard](1-WHY_FAMILY/DASHBOARD.md) | [Outline](1-WHY_FAMILY/9-Claude-Outline.md) |
 | Introduction to SARF | [Dashboard](2-SARF_INTRO/DASHBOARD.md) | [Draft](2-SARF_INTRO/1-OUTLINE-DRAFT.md) |
 | Clinical Research | [Dashboard](3-CLINICAL_RESEARCH/DASHBOARD.md) | [Slide Deck](3-CLINICAL_RESEARCH/3-SLIDES-IRR-AI-ERAS.md) |
-| The Family Diagram App | — | *Not yet started* |
+| The Family Diagram App | [Dashboard](4-FAMILY_DIAGRAM_APP/DASHBOARD.md) | [Notes](4-FAMILY_DIAGRAM_APP/3-PRESENTATION-NOTES.md) |
 | Visualizing Emotional Process *(Dr. Havstad)* | N/A | N/A |
 | Data, the Future, the Next Generation | — | *Not yet started* |
 
