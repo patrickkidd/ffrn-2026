@@ -106,6 +106,7 @@ Each presentation has a **dashboard** with current status and to-dos, and a work
 | [Daily Logging with Toward and Away](articles/Stinson-Daily-Logging-in-Family-Diagram-With-Toward-and-Away.md) | Toward/away as atomic operations; daily logging |
 | [Barriers to Science for Bowen Theory](articles/Stinson-Barriers-to-Science-for-Bowen-Theory.md) | Markers of pseudoscience; need for explicit predictive models |
 | [The AI Revolution and Family Assessment](articles/Stinson-AI-Revolution-and-Family-Assessment.md) | LLMs, BT Co-pilot, building blocks for automating evaluation |
+| [Dissertation: To what extent did the Buddha define a natural system?](https://www.researchgate.net/publication/343863090_Stinson_2020_-_To_what_extent_did_the_Buddha_define_a_natural_system_Dissertation) | Problems in psychological science; lit review foundation for this work |
 
 ### Historical Case Studies
 
@@ -131,6 +132,15 @@ Original research and infrastructure from the [BT Copilot R&D project](https://g
 | [Family Diagram Visual Specification](https://github.com/patrickkidd/btcopilot/blob/master/doc/FAMILY_DIAGRAM_VISUAL_SPEC.md) | Platform-independent specification for rendering Bowen family diagrams |
 | [Conversational Flow Evaluation](https://github.com/patrickkidd/btcopilot#phase-7-conversational-flow-evaluation-) | Objective metrics for measuring clinical interview quality |
 | [Inter-Rater Reliability Study](https://github.com/patrickkidd/btcopilot#phase-11-inter-rater-reliability-study) | First formal IRR study for family systems constructs at scale |
+
+---
+
+## Promotional Videos
+
+| Script | Duration | Purpose |
+|--------|----------|---------|
+| [Short Ad](PITCH.md#script-1-short-ad--60-seconds) | ~55 sec | Social media, email blasts, event listings |
+| [Content Teaser](PITCH.md#script-2-content-teaser-100-seconds) | ~105 sec | Website embed, email feature, shareable video |
 
 ---
 
