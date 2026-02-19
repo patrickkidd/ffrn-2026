@@ -16,7 +16,7 @@
 - Diagram: family structure + emotional process symbols
 - Timeline: facts — births, deaths, cutoffs, shifts, events
 - Diagram changes as you move through the timeline
-- Not a genogram (static snapshot) — this is dynamic
+- Not a "genogram" (static snapshot, no predictive model)
 
 **What goes on the timeline:**
 - Facts and functional facts — record the shift, not the judgment
@@ -27,8 +27,7 @@
 Quick tour so the audience knows what they're about to see:
 - Animated timeline — watch a family's process unfold over decades
 - SARF built in — S, A, R, F trackable over time
-- Toward/away — visible on diagram, triangles become visible
-- Custom variables — define and track your own
+  - R shifts, e.g. triangles - show triangles view
 - Filtering — by person, event type, date range
 - Presentation mode — how Laura will show her case next
 
