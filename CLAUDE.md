@@ -164,6 +164,7 @@ Each presentation has ONE authoritative dashboard. Find it and integrate knowled
 | Introduction to SARF | [DASHBOARD](2-SARF_INTRO/DASHBOARD.md) |
 | Clinical Research | [DASHBOARD](3-CLINICAL_RESEARCH/DASHBOARD.md) |
 | The Family Diagram App | [DASHBOARD](4-FAMILY_DIAGRAM_APP/DASHBOARD.md) |
+| Data, the Future, the Next Generation | [DASHBOARD](5-DATA_FUTURE_NEXT_GEN/DASHBOARD.md) |
 
 **If no authoritative doc exists**: Create one in the package's `doc/` folder and add it to the package's CLAUDE.md doc index.
 
@@ -187,6 +188,11 @@ Maintain `btcopilot/decision_log.md` for major decisions.
 1. Write the decision entry immediately
 2. Notify: "Logged decision: [title] in btcopilot/decisions/log.md"
 3. Only ask if missing critical context (options considered, reasoning)
+
+### Behavioral Rules
+
+- **Keep presentation notes concise.** Patrick will never read verbose brainstorm documents. Bullet points, tables, and scannable structure only.
+- **This conference and app are Patrick's brainchild.** Don't explain his own concepts back to him. He needs content organization and audience tailoring, not concept walkthroughs.
 
 ### File References (MANDATORY)
 

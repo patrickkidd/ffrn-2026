@@ -5,15 +5,15 @@
 
 ## Status
 
-**Current state:** Slide deck at `3-SLIDES-IRR-AI-ERAS.md`. 23 slides, low resolution, room for discussion.
+**Current state:** Outline at [4-OUTLINE-CURRENT.md](4-OUTLINE-CURRENT.md). Speaker notes at [PRESENTATION-NOTES.md](PRESENTATION-NOTES.md). No slides — conversational format.
 
 ## Todo
 
-- [x] Decide demo approach → No live demos. Screenshots sufficient.
-- [x] Draft slide deck → `1-SLIDES-DRAFT.md` (19 slides, ~40 min content)
 - [ ] Capture screenshot (IRR app interface)
 - [ ] Decide on Bowen terminology usage (same decision as Presentation 2)
-- [ ] Create actual slides (PowerPoint/Keynote/Google Slides)
+- [ ] Practice "scaling problem" section — needs to land without losing non-technical audience
+- [ ] Decide depth on synthetic data
+- [ ] Decide whether "responsibility pattern" gets a visual or just narration
 
 ## Purpose
 
@@ -57,17 +57,18 @@ Technology scales what humans validate. Ground truth is human truth.
 
 | File | Description |
 |------|-------------|
-| `../resources/SARF-White-Paper.md` | SARF definition, R&D roadmap |
-| `../articles/Stinson-Emotional-Systems-Research-Methodology.md` | Research methodology, IRR discussion |
+| [SARF White Paper](../resources/SARF-White-Paper.md) | SARF definition, R&D roadmap |
+| [Emotional Systems Research Methodology](../articles/Stinson-Emotional-Systems-Research-Methodology.md) | Research methodology, IRR discussion |
 
 ## Outline Snapshots
 
 | File | Status |
 |------|--------|
-| `0-INITIAL_BRAINSTORM.md` | Brainstorm and concepts |
-| `1-SLIDES-DRAFT.md` | First draft - 19 slides |
-| `2-SLIDES-VERTICAL-ALIGNMENT.md` | Added vertical alignment + getting involved |
-| `3-SLIDES-IRR-AI-ERAS.md` | **Current** - 23 slides, punched slide 2, IRR+AI combo, two eras |
+| [0-INITIAL_BRAINSTORM.md](0-INITIAL_BRAINSTORM.md) | Brainstorm and concepts |
+| [1-SLIDES-DRAFT.md](1-SLIDES-DRAFT.md) | First draft - 19 slides (archived format) |
+| [2-SLIDES-VERTICAL-ALIGNMENT.md](2-SLIDES-VERTICAL-ALIGNMENT.md) | Added vertical alignment + getting involved (archived format) |
+| [3-SLIDES-IRR-AI-ERAS.md](3-SLIDES-IRR-AI-ERAS.md) | 23 slides, punched slide 2, IRR+AI combo, two eras (archived format) |
+| [4-OUTLINE-CURRENT.md](4-OUTLINE-CURRENT.md) | **Current** — converted from slides to outline format |
 
 ## Key Lines
 
@@ -76,11 +77,6 @@ Technology scales what humans validate. Ground truth is human truth.
 - "Technology scales. Humans validate."
 - "If you just interrogate, you don't get the data you need."
 - "Just seeing the data organized was the breakthrough."
-
-## What to Show
-
-- IRR app screenshot (one is enough)
-- Keep it simple—infrastructure exists, we built it
 
 ## Tools to Promote
 

@@ -1,26 +1,25 @@
 # Presentation 2: Introduction to SARF
 
 **FFRN Conference | Feb 28, 2025**
-**Duration TBD**
+**Duration: 45 min (10:15–11:00 AM)**
 
 ## Status
 
-**Current state:** First draft outline complete (`1-OUTLINE-DRAFT.md`). Needs review, case examples, timing.
+**Current state:** FFRN-targeted outline complete ([3-FFRN-OUTLINE.md](3-FFRN-OUTLINE.md)). Presentation notes created ([PRESENTATION-NOTES.md](PRESENTATION-NOTES.md)). Duration resolved (45 min). App promo concentrated at end.
 
 ## Todo
 
-- [ ] Determine presentation duration
-- [ ] Add concrete case example(s) for non-technical audience
-- [ ] Decide on app promo placement (distributed vs. end)
-- [ ] Review "A" section length—may be too long
+- [ ] Practice SARF model section (28 min unscripted)
+- [ ] Decide depth per R category (which get examples vs. named-and-moved-on)
+- [ ] Decide whether band-aid analogy lives here or in Pres 1
 - [ ] Decide Bowen terminology usage (triangle, differentiation)
 - [ ] Create slides
 
 ## Priorities
 
-1. Case example (makes abstract concrete)
-2. Duration/timing
-3. "A" section scope decision
+1. Practice 28-min SARF section — biggest timing risk
+2. R category depth decisions
+3. Slides
 
 ## Purpose
 
@@ -50,7 +49,15 @@ SARF (Symptom, Anxiety, Relationship, Functioning) is the minimum framework need
 
 | File | Status |
 |------|--------|
-| `1-OUTLINE-DRAFT.md` | **Current** - First draft |
+| [1-OUTLINE-DRAFT.md](1-OUTLINE-DRAFT.md) | First comprehensive draft |
+| [2-COUPLES-THERAPY-CLIFFNOTES.md](2-COUPLES-THERAPY-CLIFFNOTES.md) | Couples therapy grad student version |
+| [3-FFRN-OUTLINE.md](3-FFRN-OUTLINE.md) | **Current** - FFRN audience, drops "Why Scientific Thinking" (covered in Pres 1) |
+
+## Presentation Notes
+
+| File | Description |
+|------|-------------|
+| [PRESENTATION-NOTES.md](PRESENTATION-NOTES.md) | Speaker-facing notes with timing table, key lines, prep checklist |
 
 ## Audience Considerations
 
