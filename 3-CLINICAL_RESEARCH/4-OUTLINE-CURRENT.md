@@ -152,6 +152,16 @@ The working group learned SARF coding faster on synthetic data than real cases.
 
 *Real recordings are the goal. Synthetic data accelerates getting there.*
 
+### Discovery: Timelines cluster by emotional salience
+
+Timeline data naturally clusters into ~3-5 notable periods.
+- The client has a "sampling bias" — they report what's emotionally salient to *them*
+- They don't give you an even history; they give you the periods that matter
+- These clusters typically follow a nodal/triggering event
+- The clustering itself *is* the emotional process — you don't have to know what to look for
+
+*The client's own selection bias is the data.*
+
 ### The responsibility pattern
 
 Two 45-minute interviews. Person sees for the first time:

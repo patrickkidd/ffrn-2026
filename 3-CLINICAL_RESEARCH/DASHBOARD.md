@@ -53,6 +53,8 @@ Technology scales what humans validate. Ground truth is human truth.
 
 2. **Synthetic data trains faster** — Working group learned SARF coding faster on synthetic data than real cases. Real recordings are the goal; synthetic accelerates getting there.
 
+3. **Timelines cluster by emotional salience** — Timeline data naturally clusters into ~3-5 notable periods because the client's sampling bias determines what they report. The clustering itself is the emotional process — you don't have to know what to look for.
+
 ## Key Sources
 
 | File | Description |
