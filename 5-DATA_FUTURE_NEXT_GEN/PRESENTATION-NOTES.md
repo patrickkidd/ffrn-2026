@@ -1,89 +1,67 @@
-# Data, the Future, the Next Generation
+# Data, the Future, and the Next Generation
 
-**3:00-3:30 PM | 20 min talk + 10 min buffer → Q&A**
-
----
-
-## I. The Day in One Breath (3 min)
-
-- Morning: field is broken, pattern is ancient, biological, recognizable
-- SARF: four variables, something to measure and agree on
-- Research: ground truth set by humans, scaled by machines
-- Afternoon: the tool live, Laura's real case
-- → What does it all add up to?
+**3:00-3:30 PM | 15 min solo + 15 min Guillermo interview → Q&A**
 
 ---
 
-## II. Where We Are (3 min)
+## PART 1: Patrick Solo (15 min)
 
-- SARF — minimal, testable, real
-- IRR → AI pipeline — built, in use
-- Tools in clinicians' hands
-- Small working group showed up
-- Early stage. Real. Functional. Not anyone's day job — yet.
-- *Built on margins, nights/weekends, between engineering career. Moves faster as a day job.*
+### I. The Spirit of Discovery (5 min)
 
-→ **"Not a pitch deck. This is what exists today."**
+- People across different fields who share a posture. Sagan: "somewhere, something incredible is waiting to be known." Feynman: "I would rather have questions that can't be answered than answers that can't be questioned."
+- Bowen spent 40 years pursuing a science of human behavior — "generally considered to be unattainable." The human probing the secrets of the universe, sending himself to the moon on theory alone. Then inward: "hardly scratched the surface" of inner space.
+- → **"The development of the human brain will not permit him to stop."**
+- People who found discovery itself to be the reward. Not the concepts — the *posture*. The future is limitless. So much left to discover.
+- That's the spirit behind everything today. Not "I have the answers." I built tools for asking better questions, and the process has been one of the most rewarding things I've done.
 
 ---
 
-## III. What Becomes Possible (6 min)
+### II. What Becomes Possible (5 min)
+
+**Coding cases — the personal payoff:**
+- "What shifted, when, in relation to what?" — changes how you think
+- Practice, not one-time insight. Clearer mental model every time.
+- **Clear mental model = better clinical decisions.** Without one → navigating by feel → feel unreliable under anxiety.
+- Don't need software. Pencil + timeline. Software just faster.
+- Track shifts instead of label states → see process everywhere.
+
+→ **"Not a technology. A way of using your mind."**
 
 **Data compounds:**
 - Every clinician is an island — observations die with caseload
 - Shared variables → knowledge accumulates across practitioners
-- Trainee in Brazil, trainee in Alaska — same case, comparable results — same variables, not same opinions
+- Brazil trainee + Alaska trainee → same case, comparable results — same variables, not same opinions
 
-**Era 2:**
-- Era 1 (now): AI learns from humans
-- Era 2: enough ground truth → AI finds patterns we can't see → new hypotheses for us
-- Human stays central — sets standard, corrects machine
-
-**Thinking spreads:** *(most important part)*
-- Coding a case changes how you think — "what shifted, when, in relation to what?"
-- Not one-time — it's a practice. More you do it, clearer the mental model
-- **Clear mental model = better clinical decisions** — what to ask, what to leave alone, when something shifted
-- Without one → navigating by feel → feel unreliable when anxiety high
-- Don't need software. Pencil + timeline. Software just faster.
-- Track shifts instead of label states → see process everywhere
-
-→ **"Not a technology. A way of using your mind."**
+**Scale — tens of thousands of cases:**
+- Era 2 (AI finds patterns humans can't, generates hypotheses for us) requires a critical mass. Not dozens. Not hundreds. Tens of thousands.
+- Not one lab. Distributed network of clinicians coding real cases, same variables.
+- Every case you code = a data point the field has never had.
+- Human stays central — sets standard, corrects machine, decides what matters.
 
 ---
 
-## IV. The Next Generation (6 min)
-
-**You don't have to be an engineer.**
+### III. The Invitation (5 min)
 
 **Your own thinking:**
 - Next intake → draw the family, date the shifts, see the sequence
-- Whiteboard works. App just remembers.
 - Not "what's wrong with this person" → "what shifted, when, in relation to what?"
 
-**Tools:**
-- Pro app — now — timeline + diagram linked
-- Personal app — coming — clients do family assessment via conversation before session 1
+**Tools:** Pro app available now (familydiagram.com). Personal app coming — clients do family assessment via conversation before session 1.
 
-**Seminar:**
-- Monthly Zoom, working group not lectures
-- Coding cases, sharpening thinking on real cases
+**Seminar:** Monthly Zoom working group. Coding cases on real data. Not lectures — practice.
 
-**Code cases (IRR):**
-- Needs trained coders = clinicians
-- Listen, code SARF, compare to others
-- You are the ground truth. You are the humans.
+**IRR study:** Needs trained coders = clinicians. You are the ground truth.
 
-**Bring observations:**
-- Patterns in your practice exist only in your head right now
-- SARF = way to record so they can be tested
-- Science = patient observation, recorded clearly enough for someone else to check
+**Close:**
+
+→ *"Bowen wrote at the end of his career that the journey was far more successful than he ever dreamed possible. I feel the same way about the last five years. None of this existed five years ago. All of it works. And we've barely started."*
+
+→ *"The field isn't hopeless — it's unmeasured. Unmeasured is fixable."*
+
+→ *"Thank you for spending the day."*
 
 ---
 
-## V. Close (2 min)
+## PART 2: Guillermo Interviews Patrick (15 min)
 
-- **"Field isn't hopeless — it's unmeasured. Unmeasured is fixable."**
-- **"Human brain won't stop trying to understand itself. Not optimism — just what brains do."**
-- **"None of this existed five years ago. All of it exists now. All of it works."**
-- **"Next generation isn't a technology. It's a way of thinking. You can start Monday."**
-- **"Thank you for spending the day."**
+Guillermo drives content. Patrick responds conversationally. Leads into audience Q&A.

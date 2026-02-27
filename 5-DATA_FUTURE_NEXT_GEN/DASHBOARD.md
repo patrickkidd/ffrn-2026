@@ -5,19 +5,19 @@
 
 ## Status
 
-**Current state:** Third draft. Added continuous practice / clear mental model argument. Needs Patrick review.
+**Current state:** Fourth draft. Restructured: 15 min inspiration solo + 15 min Guillermo interview. Needs Patrick review.
 
 **Presentation notes:** [PRESENTATION-NOTES.md](PRESENTATION-NOTES.md) — always locked to the current snapshot.
 
 ## Todo
 
-- [ ] Patrick review of draft
-- [ ] Trim or expand based on feedback
+- [ ] Patrick review of snapshot 4
+- [ ] Coordinate with Guillermo on interview threads
 - [ ] Decide: any slides/images at all, or purely conversational?
 
 ## Purpose
 
-Close the day. No new concepts. Inspire curiosity and the power of thinking scientifically. Paint what becomes possible when more people get curious enough to try. Deliver on Pres 3's "more on getting involved at day's end" promise. Land emotionally.
+Close the day. Inspire through the spirit of discovery — the posture of people who found discovery itself to be the reward. First half: Patrick solo on inspiration + what becomes possible + concrete invitation. Second half: Guillermo interviews Patrick, leading into audience Q&A.
 
 ## Core Message
 
@@ -27,20 +27,20 @@ Close the day. No new concepts. Inspire curiosity and the power of thinking scie
 
 | Section | Min | Running |
 |---------|-----|---------|
-| The day in one breath | 3 | 3 |
-| Where we are right now | 3 | 6 |
-| What becomes possible | 6 | 12 |
-| The next generation (getting involved) | 6 | 18 |
-| Close | 2 | 20 |
+| **PART 1: Patrick solo** | **15** | |
+| I. The Spirit of Discovery | 5 | 5 |
+| II. What Becomes Possible | 5 | 10 |
+| III. The Invitation | 5 | 15 |
+| **PART 2: Guillermo interview** | **15** | 30 |
 
 ## Emotional Center
 
-Inspired by the quiet conviction and long view of Bowen's Epilogue — without naming it. Key emotional beats:
-- The human brain won't stop trying to understand itself
-- Coding is a practice, not a one-time insight — doing it continuously builds a clear mental model of the family
-- A clear mental model is clinically essential; without one you're navigating by feel
-- Once you start tracking shifts instead of labeling states, you see process everywhere
-- Patient observation, recorded clearly enough that someone else can check it — that's how science works
+The *posture* of a person at the end of his career saying the future is limitless. The pursuit of science, the wonder of discovery. Key emotional beats:
+- "The development of the human brain will not permit him to stop."
+- The personal reward of discovery and tinkering — not having answers, but building better questions
+- Coding cases as practice that compounds — clear mental model, better clinical decisions
+- Tens of thousands of coded cases unlock Era 2 — the audience's contribution matters at scale
+- The tools and seminar are there for the curious
 
 ## Overlap Management
 
@@ -64,4 +64,5 @@ Inspired by the quiet conviction and long view of Bowen's Epilogue — without n
 |------|--------|
 | [1-OUTLINE-DRAFT.md](1-OUTLINE-DRAFT.md) | Superseded (two-futures / funding frame) |
 | [2-OUTLINE-THINKING.md](2-OUTLINE-THINKING.md) | Superseded (curiosity/thinking reframe) |
-| [3-OUTLINE-MENTAL-MODEL.md](3-OUTLINE-MENTAL-MODEL.md) | **Current** (added continuous practice + clear mental model argument) |
+| [3-OUTLINE-MENTAL-MODEL.md](3-OUTLINE-MENTAL-MODEL.md) | Superseded (continuous practice + clear mental model) |
+| [4-OUTLINE-INSPIRATION-INTERVIEW.md](4-OUTLINE-INSPIRATION-INTERVIEW.md) | **Current** (spirit of discovery + Guillermo interview) |

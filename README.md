@@ -65,7 +65,8 @@ This conference presents a path forward:
 | 1:15–2:15 | **The Family Diagram App** | Dr. Stinson |
 | 2:15–2:45 | **Visualizing Emotional Process Over Time** — Clinical Presentation | Dr. Havstad |
 | 2:45–3:00 | Discussion and Questions | |
-| 3:00–3:30 | **Data, the Future, the Next Generation** | Dr. Stinson |
+| 3:00–3:15 | **Data, the Future, the Next Generation** | Dr. Stinson |
+| 3:15–3:30 | **Interview** | Guillermo w/ Dr. Stinson |
 | 3:30–4:00 | Discussion and Questions | |
 
 ---
