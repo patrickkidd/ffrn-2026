@@ -29,16 +29,25 @@
 
 | Section | Time | Running Total |
 |---------|------|---------------|
-| Opening: Engineer's Confession | 3 min | 3 min |
-| The Field Is Broken (data) | 8 min | 11 min |
-| The Pattern: Historical Catastrophes | 14 min | 25 min |
-| Why This Keeps Happening: Anxiety | 12 min | 37 min |
-| The Proposal: Scientific Thinking + Family | 13 min | 50 min |
+| Materials & Sources Online | 1 min | 1 min |
+| Opening: Engineer's Confession | 3 min | 4 min |
+| The Field Is Broken (data) | 8 min | 12 min |
+| The Pattern: Historical Catastrophes | 14 min | 26 min |
+| Why This Keeps Happening: Anxiety | 12 min | 38 min |
+| The Proposal: Scientific Thinking + Family | 12 min | 50 min |
 | Q&A / Clarifying Questions | 10 min | 60 min |
 
 ---
 
-## I. OPENING: The Engineer's Confession (3 min)
+## I. MATERIALS & SOURCES ONLINE (1 min)
+
+*"All of the notes and sources for today's presentations are available online. If you want to follow along, review later, or share with colleagues, the link is right here."*
+
+**https://github.com/patrickkidd/ffrn-2026**
+
+---
+
+## II. OPENING: The Engineer's Confession (3 min)
 
 - Your story: engineer enters behavioral health field
 - Expected: if it doesn't work, measure it, fix it, or discard it
@@ -49,7 +58,7 @@
 
 ---
 
-## II. THE FIELD IS BROKEN: The Data (8 min)
+## III. THE FIELD IS BROKEN: The Data (8 min)
 
 ### 1. The Treatment-Prevalence Paradox (CENTERPIECE)
 
@@ -108,7 +117,7 @@
 
 ---
 
-## III. THE PATTERN: Historical Catastrophes (14 min)
+## IV. THE PATTERN: Historical Catastrophes (14 min)
 
 **Setup:** These aren't ancient history. These are cases where caring professionals, lacking objective frameworks, got swept up in collective beliefs that destroyed lives. The pattern repeats because the conditions repeat.
 
@@ -147,40 +156,24 @@
 **The Outcome:** **20 years** blaming mothers. Immense guilt. Children institutionalized.
 **The End:** Bettelheim (main proponent) exposed as fraud who **lied about credentials** and **abused patients**.
 
-### D. Recovered Memory Therapy (1980s-1990s)
+### D. The Recovered Memory Catastrophe (1980s-1990s)
 
-**Full summary:** [articles/Recovered-Memory-Therapy.md](../articles/Recovered-Memory-Therapy.md)
+One bad implicit model—repressed memory theory—simultaneously produced a fake diagnosis epidemic, a national moral panic, and a destructive therapeutic practice. Three interlocking disasters from a single flawed assumption.
 
-**The Belief:** Repressed memories recoverable through therapy.
-**The Evidence:** Patients "remembered" under guidance.
+**Full summaries:** [Recovered Memory Therapy](../articles/Recovered-Memory-Therapy.md) · [MPD/DID Epidemic](../articles/MPD-DID-Epidemic.md) · [Satanic Panic](../articles/Satanic-Panic-Daycare-Abuse.md)
+
+**The Belief:** Childhood trauma is routinely repressed, and recoverable through suggestive therapy (hypnosis, guided imagery, leading questions).
+**The Evidence:** Patients "remembered" under guidance. 95% of adult SRA allegations originated in therapy sessions.
 **The Outcome:**
 - Est. **1 million patients** convinced they had repressed memories
-- **"Tens of thousands of families"** destroyed
-- People **imprisoned** on false accusations
+- **"Tens of thousands of families"** destroyed by false accusations
+- People **imprisoned** on fabricated testimony
+- **MPD/DID Epidemic:** Repressed abuse supposedly causes personality to "split" into alters. **50,000 diagnoses** (vs. ~200 in all prior history). 25–50% of MPD patients also "recovered" satanic abuse memories. Patients got worse. Epidemic disappeared when practices stopped — **iatrogenic**
+- **Satanic Panic:** Recovered memories supplied the content — satanic cults ritually abusing children. **12,000+ cases** alleged; **McMartin trial:** 7 years, $15M, **zero convictions**. Psychiatrist Bennett Braun (1988) linked MPD to satanic cults at a national conference, lending professional credibility. FBI Special Agent Kenneth Lanning's investigation: **zero evidence**
 
-**The End:** Malpractice suits, license revocations. FBI found **zero evidence** of satanic abuse.
+**The End:** All three fell together. False Memory Syndrome Foundation (1992) countered recovered memory claims. Malpractice suits, license revocations. By 1995 the therapy, the diagnoses, and the panic had all receded.
 
-### E. Satanic Panic / Daycare Abuse (1980s-1990s)
-
-**Full summary:** [articles/Satanic-Panic-Daycare-Abuse.md](../articles/Satanic-Panic-Daycare-Abuse.md)
-
-**The Belief:** Satanic cults ritually abusing children in daycares.
-**The Evidence:** Children's testimony via leading questions.
-**The Outcome:**
-- **12,000+ cases** alleged
-- **McMartin:** 7 years, $15 million, **zero convictions**
-- Dozens wrongfully imprisoned for years
-
-**The End:** FBI found no evidence. Reforms in child interviewing.
-
-### F. MPD/DID Epidemic (1980s-1990s)
-
-**Full summary:** [articles/MPD-DID-Epidemic.md](../articles/MPD-DID-Epidemic.md)
-
-**The Belief:** Multiple personalities widespread, caused by repressed trauma.
-**The Evidence:** Patients developed "alters" during treatment.
-**The Outcome:** **50,000 diagnoses** by 1990s (vs. ~200 in all prior history). Patients got worse.
-**The End:** Largely **iatrogenic**—created by the therapy. Epidemic disappeared when practices stopped.
+**Sources:** [Psychiatric Times](https://www.psychiatrictimes.com/view/speak-memory) · [PubMed: Satanism, ritual abuse, and MPD](https://pubmed.ncbi.nlm.nih.gov/7960286/) · [APA PsycNet: Social construction of SRA](https://psycnet.apa.org/record/1998-07821-011) · [FMSF: Repressed Memory, MPD, and SRA](http://www.fmsfonline.org/links/prepressedmemoryMPD.html) · [Very Bad Therapy: Satanic Panic & Recovered Memory](https://www.verybadtherapy.com/episodes/episode-47-vbt-in-history-1980s-satanic-panic-and-recovered-memory-therapy) · [False Memory Syndrome Foundation](https://en.wikipedia.org/wiki/False_Memory_Syndrome_Foundation) · [Satanic Panic (Wikipedia)](https://en.wikipedia.org/wiki/Satanic_panic)
 
 ---
 
@@ -210,7 +203,7 @@
 
 ---
 
-## IV. WHY THIS KEEPS HAPPENING: Anxiety (12 min)
+## V. WHY THIS KEEPS HAPPENING: Anxiety (12 min)
 
 ### A. Anxiety = Perceived Uncertainty + Urgency
 
@@ -299,7 +292,7 @@ Joan McCord: *"No one had ever discussed the possibility that intervention—whe
 
 ---
 
-## V. THE PROPOSAL: Scientific Thinking + Family (13 min)
+## VI. THE PROPOSAL: Scientific Thinking + Family (12 min)
 
 ### Scientific Thinking Is the Antidote
 
@@ -356,7 +349,7 @@ Joan McCord: *"No one had ever discussed the possibility that intervention—whe
 
 ---
 
-## VI. Q&A / CLARIFYING QUESTIONS (10 min)
+## VII. Q&A / CLARIFYING QUESTIONS (10 min)
 
 Likely questions:
 - "Are you saying therapy doesn't work?"
@@ -420,7 +413,7 @@ Study showing children with "secure" attachment present as disorganized if paren
 
 ## SLIDES (Minimal)
 
-1. Title
+1. Title + materials URL (github.com/patrickkidd/ffrn-2026)
 2. "4x more treatment. Same depression."
 3. "50% → 70% → 90%" / "85% within a decade"
 4. Youth crisis stats
@@ -428,16 +421,15 @@ Study showing children with "secure" attachment present as disorganized if paren
 6. Salem: "25 dead. 200 accused."
 7. Lobotomy: "50,000 surgeries."
 8. Refrigerator mothers: "20 years."
-9. Recovered memory: "1 million patients."
-10. Satanic panic: "12,000 cases. Zero evidence."
-11. The pattern table
-12. "What about now?"
-13. "Anxiety = Perceived Uncertainty + Urgency"
-14. The ideology mechanism (untestable + simple = relief)
-15. Cambridge-Somerville outcomes
-16. Blade of grass + wind
-17. "Everyone needs scientific thinking."
-18. "Before your next intake, draw the family."
+9. Recovered memory catastrophe: "1 engine. 3 disasters. Zero evidence."
+10. The pattern table
+11. "What about now?"
+12. "Anxiety = Perceived Uncertainty + Urgency"
+13. The ideology mechanism (untestable + simple = relief)
+14. Cambridge-Somerville outcomes
+15. Blade of grass + wind
+16. "Everyone needs scientific thinking."
+17. "Before your next intake, draw the family."
 
 ---
 

@@ -11,7 +11,7 @@
 
 - [ ] Find attachment theory citation (children present as disorganized when parents fight)
 - [ ] Review timing with dry run
-- [ ] Finalize slides (18 minimal slides outlined)
+- [ ] Finalize slides (17 minimal slides outlined)
 
 ## Priorities
 
@@ -68,7 +68,7 @@ The behavioral health field is broken—more treatment has not reduced prevalenc
 ## Decisions Made
 
 - Scope framed around clinical psychology as "lowest common denominator" across helping professions
-- Historical catastrophes included: Salem, Lobotomy, Refrigerator Mother, Recovered Memory, Satanic Panic, MPD/DID
+- Historical catastrophes included: Salem, Lobotomy, Refrigerator Mother, Recovered Memory Catastrophe (consolidated — RMT as engine, MPD and Satanic Panic as products)
 - Cambridge-Somerville as bridge to "caring isn't enough"
 - Call to action: "Before your next intake, draw the family"
 
