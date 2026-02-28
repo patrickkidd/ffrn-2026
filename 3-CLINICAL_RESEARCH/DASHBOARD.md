@@ -9,11 +9,20 @@
 
 ## Todo
 
-- [ ] Capture screenshot (IRR app interface)
+- [x] ~~Capture screenshot (IRR app interface)~~ → Replaced with SARF editor screenshot in Section II
+- [x] ~~Decide whether "responsibility pattern" gets a visual or just narration~~ → Narration only (data on paper, not digitized)
 - [ ] Decide on Bowen terminology usage (same decision as Presentation 2)
 - [ ] Practice "scaling problem" section — needs to land without losing non-technical audience
 - [ ] Decide depth on synthetic data
-- [ ] Decide whether "responsibility pattern" gets a visual or just narration
+
+## Screenshots
+
+| Image | Placement | Purpose |
+|-------|-----------|---------|
+| [SARF Editor](2--IRR-SARF-Editor.png) | Section II — The Scaling Problem | Grounds "coding" for non-technical audience |
+| [Synthetic Data Form](6--Synthetic-Data.png) | Section IV — Discoveries | Makes "synthetic conversations" concrete |
+| [IRR Review](4--IRR-Review.png) | Section III — Ground Truth | Side-by-side coder comparison makes "blind coding + agreement" tangible |
+| [Pro App Add Data](1--Add-Data-Form.png) | Section V — Vertical Alignment | Same fields as IRR editor = vertical alignment in action |
 
 ## Purpose
 

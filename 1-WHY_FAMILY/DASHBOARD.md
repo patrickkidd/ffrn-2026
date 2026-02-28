@@ -5,7 +5,7 @@
 
 ## Status
 
-**Current state:** Outline complete (`9-Claude-Outline.md`), ready for rehearsal/review.
+**Current state:** Outline complete with quotes placed (`9-Claude-Outline.md`). Six quotes across four moments: Berry (opening), Havel (after catastrophes), Feynman (scientific thinking), Gleick + Le Guin (blade of grass / why family), McClintock + Oliver (call to action / close). Ready for rehearsal/review.
 
 ## Todo
 
@@ -63,7 +63,7 @@ The behavioral health field is broken—more treatment has not reduced prevalenc
 ## Open Questions
 
 - Attachment theory citation still missing (children present as disorganized when parents fight)
-- Balance between data dump and emotional engagement
+- ~~Balance between data dump and emotional engagement~~ — addressed with six placed quotes
 
 ## Decisions Made
 

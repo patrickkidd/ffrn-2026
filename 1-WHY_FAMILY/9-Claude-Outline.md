@@ -52,6 +52,10 @@
 - Your story: engineer enters behavioral health field
 - Expected: if it doesn't work, measure it, fix it, or discard it
 - Found: a field that doesn't work that way
+
+Wendell Berry: *"The mind that is not baffled is not employed. The impeded stream is the one that sings."*
+
+- That bafflement was the beginning of the real work for me. Not knowing was the starting condition, not the problem.
 - *"I'm not here to attack anyone's training. I'm here to make a case that everyone—not just engineers—needs scientific thinking."*
 
 **Transition:** *"Let me show you the data."*
@@ -199,6 +203,10 @@ One bad implicit model—repressed memory theory—simultaneously produced a fak
 
 *"These forces are real. They serve a function—I believe a biological function. The question is not whether they exist, but whether we can recognize them and respond more thoughtfully than our ancestors did."*
 
+Vaclav Havel: *"Hope is not the same thing as optimism. It is not the conviction that something will turn out well, but the certainty that something makes sense, regardless of how it turns out."*
+
+- What I'm presenting today is not optimism. It's a bet that this work makes sense.
+
 **Transition:** *"Which brings us to: Why does this keep happening?"*
 
 ---
@@ -296,6 +304,8 @@ Joan McCord: *"No one had ever discussed the possibility that intervention—whe
 
 ### Scientific Thinking Is the Antidote
 
+Feynman: *"The first principle is that you must not fool yourself — and you are the easiest person to fool."*
+
 - Scientific thinking = "What would have to be true for me to be wrong?"
 - The willingness to be **falsified**
 - Nobody in these historical cases asked: "What if we're making it worse?"
@@ -319,6 +329,8 @@ Joan McCord: *"No one had ever discussed the possibility that intervention—whe
 
 ### The Blade of Grass
 
+Gleick: *"You don't see something until you have the right metaphor to let you perceive it."*
+
 - Studying a blade of grass to understand why it bends
 - Measuring angle, position, structure
 - Still can't predict movement
@@ -327,10 +339,12 @@ Joan McCord: *"No one had ever discussed the possibility that intervention—whe
 
 ### Why Family?
 
+Le Guin: *"If you see a whole thing — it seems that it's always beautiful. Planets, lives... But up close a world's all dirt and rocks. And day to day, life's a hard job, you get tired, you lose the pattern."*
+
 - Family is the smallest system where the pattern is visible
 - Not society (too big, can't intervene)
 - Not the individual (misses the pattern)
-- One level up from the blade of grass
+- One level up from the blade of grass — where you can see the whole thing
 
 ### What You'll Get Today
 
@@ -343,9 +357,15 @@ Joan McCord: *"No one had ever discussed the possibility that intervention—whe
 
 ### The Call to Action
 
+McClintock spent decades observing individual corn plants so closely that she could recognize each one. The scientific establishment ignored her for 30 years. She won the Nobel Prize. Her method: *"If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... regardless of what they say."*
+
+- The observation has to come first. Before the models, before the technology.
+
 *"Before your next intake, draw the family."*
 
 *"Before your next intervention, ask: how would I know if this is making things worse?"*
+
+Mary Oliver: *"Attention is the beginning of devotion."*
 
 ---
 
@@ -414,22 +434,27 @@ Study showing children with "secure" attachment present as disorganized if paren
 ## SLIDES (Minimal)
 
 1. Title + materials URL (github.com/patrickkidd/ffrn-2026)
-2. "4x more treatment. Same depression."
-3. "50% → 70% → 90%" / "85% within a decade"
-4. Youth crisis stats
-5. "43% say costs outweigh benefits"
-6. Salem: "25 dead. 200 accused."
-7. Lobotomy: "50,000 surgeries."
-8. Refrigerator mothers: "20 years."
-9. Recovered memory catastrophe: "1 engine. 3 disasters. Zero evidence."
-10. The pattern table
-11. "What about now?"
-12. "Anxiety = Perceived Uncertainty + Urgency"
-13. The ideology mechanism (untestable + simple = relief)
-14. Cambridge-Somerville outcomes
-15. Blade of grass + wind
-16. "Everyone needs scientific thinking."
-17. "Before your next intake, draw the family."
+2. Berry: "The impeded stream is the one that sings."
+3. "4x more treatment. Same depression."
+4. "50% → 70% → 90%" / "85% within a decade"
+5. Youth crisis stats
+6. "43% say costs outweigh benefits"
+7. Salem: "25 dead. 200 accused."
+8. Lobotomy: "50,000 surgeries."
+9. Refrigerator mothers: "20 years."
+10. Recovered memory catastrophe: "1 engine. 3 disasters. Zero evidence."
+11. The pattern table
+12. "What about now?"
+13. Havel: "Hope is not optimism... the certainty that something makes sense."
+14. "Anxiety = Perceived Uncertainty + Urgency"
+15. The ideology mechanism (untestable + simple = relief)
+16. Cambridge-Somerville outcomes
+17. Feynman: "You must not fool yourself — and you are the easiest person to fool."
+18. Gleick: "You don't see something until you have the right metaphor."
+19. Blade of grass + wind
+20. Le Guin: "If you see a whole thing — it seems that it's always beautiful."
+21. Oliver: "Attention is the beginning of devotion."
+22. "Before your next intake, draw the family."
 
 ---
 

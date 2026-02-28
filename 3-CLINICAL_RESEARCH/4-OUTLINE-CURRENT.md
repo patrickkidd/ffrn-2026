@@ -57,6 +57,8 @@ To test SARF, someone has to code cases:
 - Identify shifts in S, A, R, F
 - Record them on a timeline
 
+![SARF Editor — text thread with coding form](2--IRR-SARF-Editor.png)
+
 Previously: humans doing this tediously, by hand.
 
 ### Why this research never happened
@@ -106,7 +108,7 @@ We built a web-based system:
 - Blind coding workflow
 - Agreement statistics
 
-[SCREENSHOT: IRR app interface]
+![Side-by-side coder comparison — IRR review](4--IRR-Review.png)
 
 ### The killer combo: IRR + AI
 
@@ -131,6 +133,8 @@ A dataset with sufficient agreement **is** ground truth.
 To train humans and test software, we needed data.
 
 **Solution:** Generate synthetic clinical discussions — realistic scenarios, SARF-codeable content, controlled environment for training.
+
+![Synthetic conversation generation form](6--Synthetic-Data.png)
 
 ### Discovery: Mutual discovery
 
@@ -200,6 +204,8 @@ Two 45-minute interviews. Person sees for the first time:
 ### Why it scales (vertical alignment)
 
 One simple coding form gives you everything.
+
+![Pro app — Add Data form](1--Add-Data-Form.png)
 
 | You code... | You get... |
 |-------------|------------|
