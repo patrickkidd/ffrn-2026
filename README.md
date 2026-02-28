@@ -53,21 +53,22 @@ This conference presents a path forward:
 |------|---------|-----------|
 | 10:15–11:00 | **Introduction to SARF** | Dr. Stinson |
 | 11:00–11:15 | Discussion and Questions | |
-| 11:15–12:00 | **Clinical Research at the Cutting Edge** | Dr. Stinson |
-| 12:00–12:30 | Discussion and Questions | |
 
-*12:30–1:15 — Lunch Break*
+*11:15–11:45 — Lunch Break*
+
+| Time | Session | Presenter |
+|------|---------|-----------|
+| 11:45–12:30 | **Clinical Research at the Cutting Edge** | Dr. Stinson |
 
 ### Afternoon — Applications
 
 | Time | Session | Presenter |
 |------|---------|-----------|
-| 1:15–2:15 | **The Family Diagram App** | Dr. Stinson |
-| 2:15–2:45 | **Visualizing Emotional Process Over Time** — Clinical Presentation | Dr. Havstad |
-| 2:45–3:00 | Discussion and Questions | |
-| 3:00–3:15 | **Data, the Future, the Next Generation** | Dr. Stinson |
-| 3:15–3:30 | **Interview** | Guillermo w/ Dr. Stinson |
-| 3:30–4:00 | Discussion and Questions | |
+| 12:30–1:30 | **The Family Diagram App** | Dr. Stinson |
+| 1:30–2:00 | **Visualizing Emotional Process Over Time** — Clinical Presentation | Dr. Havstad |
+| 2:00–2:15 | Discussion and Questions | |
+| 2:15–2:45 | **Data, the Future, the Next Generation** | Dr. Stinson |
+| 2:45–3:15 | Discussion and Questions | |
 
 ---
 
