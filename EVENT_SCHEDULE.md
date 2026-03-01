@@ -15,8 +15,8 @@
 -	11:45-12:30 ET / 7:45-8:30 AKT – Developing an AI model for Clinical Evaluation *(Dr. Stinson)* (45 min)
 
 ## Afternoon – Applications
--	12:30-1:30 ET / 8:30-9:30 AKT – The Family Diagram app *(Dr. Stinson)* (60 min)
--	1:30-2:00 ET / 9:30-10:00 AKT – Visualizing Emotional Process over Time - Clinical Presentation *(Dr. Havstad)* (30 min)
--	2:00-2:15 ET / 10:00-10:15 AKT – Discussions and Questions (15 min)
--	2:15-2:45 ET / 10:15-10:45 AKT – Data, the future, the next generation *(Dr. Stinson)* (30 min)
--	2:45-3:15 ET / 10:45-11:15 AKT - Discussions and Questions (30 min)
+-	1:45-2:45 ET / 9:45-10:45 AKT – The Family Diagram app *(Dr. Stinson)* (60 min)
+-	2:45-3:15 ET / 10:45-11:15 AKT – Visualizing Emotional Process over Time - Clinical Presentation *(Dr. Havstad)* (30 min)
+-	3:15-3:30 ET / 11:15-11:30 AKT – Discussions and Questions (15 min)
+-	3:30-4:00 ET / 11:30-12:00 AKT – Data, the future, the next generation *(Dr. Stinson)* (30 min)
+-	4:00-4:30 ET / 12:00-12:30 AKT - Discussions and Questions (30 min)
